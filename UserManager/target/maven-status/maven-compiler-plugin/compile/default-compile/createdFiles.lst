@@ -1,0 +1,3 @@
+com\mycompany\usermanager\resources\JakartaEE10Resource.class
+com\mycompany\usermanager\JakartaRestConfiguration.class
+com\example\usermanager\UserServlet.class
